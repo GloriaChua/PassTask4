@@ -17,7 +17,7 @@
         }
         else{
             echo '<h3>You have not registered!</h3><br>';
-            echo '<a href ="register.html">Register here</a>';
+            echo '<a href ="page5.html">Register here</a>';
         }
 
     ?>
